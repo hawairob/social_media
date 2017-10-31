@@ -63,8 +63,8 @@ tweets_guardados %>%
 userTimeline("barackobama", n = 20)
 
 homeTimeline(n = 25)
-mentions(n = 25)
-retweetsOfMe(n = 25)
+#mentions(n = 25)
+#retweetsOfMe(n = 25)
 
 # Trends
 lugares <- availableTrendLocations()
